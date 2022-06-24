@@ -1,5 +1,5 @@
 
-# NAACL 2022: code for splitting PAN 2020 Dataset
+# PAN 2020 Dataset preprocessing
 
 Overview:
 1. [Datasets summary](#Datasets-summary)
@@ -9,6 +9,7 @@ Overview:
 3. [PAN Open-set setup](#Open-set-setup)
     - [unseen authors](#Unseen-authors-split)
     - [unseen fandoms](#Unseen-fandoms-split)
+    - [unseen all](#Unseen-all-split)
 4. [Datasets statistics](#Datasets-statistics)
 5. [Original dataset files](#Original-dataset-files)
 6. [Reddit datasets](#Reddit-datasets)
@@ -19,8 +20,9 @@ Overview:
 |PAN 2020|closed-set v1 and v2| [pan2020_closed_set_splits.zip](https://drive.google.com/file/d/18UPhYsdtFa8ObD0M6AeMdLxJ1XH42vHQ/view?usp=sharing) | 
 |PAN 2020|open-set unseen authors | [pan2020_open_set_unseen_authors_splits.zip](https://drive.google.com/file/d/1F_NKLjHSpiPEviUC8B2h8zJkB9_Ftp8l/view?usp=sharing) | 
 |PAN 2020|open-set unseen fandoms | [pan2020_open_set_unseen_fandoms_splits.zip](https://drive.google.com/file/d/1-GyRXROBhSKBtqJm9Hun5Acq4YmKKWL_/view?usp=sharing) | 
-|reddit|closed-set | TODO | 
-|reddit|open-set unseen authors| TODO | 
+|PAN 2020|open-set unseen all | [pan2020_open_set_unseen_all.zip](https://drive.google.com/file/d/1Dl98Wxjej02DPqQSA3ofQ1Uk8eW6Uw9O/view?usp=sharing) | 
+|reddit|open-set unseen authors| [minidarkreddit_authorship_verification.zip](https://drive.google.com/file/d/1ok_CY59RhD0GgJqF1OOZMN592Zp9fgOY/view?usp=sharing) | 
+
 
 
 ## Closed-set setup
